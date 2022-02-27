@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Peters patern or The perfect path to worldly happiness. As it was delivered in a funeral sermon preached at the interrment of Mr. Hugh Peters lately deceased, by I.C. translator of Pineda upon Job, and one of the triers.</title>
+            <author>J. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81217</idno>
+            <idno type="STC">Wing C784</idno>
+            <idno type="STC">Thomason E995_11</idno>
+            <idno type="STC">ESTC R207807</idno>
+            <idno type="EEBO-CITATION">99866835</idno>
+            <idno type="PROQUEST">99866835</idno>
+            <idno type="VID">119121</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81217)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119121)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E995[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Peters patern or The perfect path to worldly happiness. As it was delivered in a funeral sermon preached at the interrment of Mr. Hugh Peters lately deceased, by I.C. translator of Pineda upon Job, and one of the triers.</title>
+                  <author>J. C.</author>
+                  <author>Caryl, Joseph, 1602-1673, attributed name.</author>
+               </titleStmt>
+               <extent>7, 6-13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on Hugh Peters, who was charged with and executed for concerting the death of Charles I. The by-line has caused this work to be attributed to the great expositor of Job, Joseph Caryl. However, this attribution is highly unlikely, and the by-line is also satirical. Cf. Brinley cat., no. 637.</note>
+                  <note>Text is continuous despite pagination.</note>
+                  <note>Partly in the same setting as Wing C783A.</note>
+                  <note>Annotation on Thomason copy: "Sept. 2".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peters, Hugh, --  1598-1660.</term>
+               <term>Religious satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119121:1" rendition="simple:additions"/>
+            <p>
+               <hi>PETERS PATERN</hi> OR The perfect PATH to Worldly Happineſs. As it was delivered in a Funeral Sermon preached at the interrment of Mr. <hi>Hugh Peters</hi> lately Deceaſed,</p>
+            <p>
+               <hi>By</hi> I. C. <hi>Tranſlator of</hi> Pineda <hi>upon</hi> Job, <hi>and one of the Triers.</hi>
+            </p>
+            <q>
+               <bibl>Guſman, <hi>Lib. 1, 2. Verſe 4.</hi>
+               </bibl>
+               <p>Amicus Plato, ſed magis amica veritas.</p>
+            </q>
+            <p>London Printed in the Year 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119121:2"/>
+            <pb n="3" facs="tcp:119121:2"/>
+            <head>After they had ſang the two firſt ſtaves of the tenth hymn of <hi>Lar<g ref="char:EOLhyphen"/>ners</hi> twelve Songs of <hi>Sion,</hi> to the tune of <hi>The Knave of Clubs,</hi> the Parſon proceeded in his Text, as followeth:</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>GUSMAN,</hi> lib. <hi>2.</hi> Chap. <hi>3.</hi> Verſe <hi>26. The latter part of the words.</hi>
+                  </bibl>
+                  <p>Let us while we live make uſe of our time, for a mans life is ended in a day.</p>
+               </q>
+            </epigraph>
+            <opener>
+               <salute>BELOVED,</salute>
+            </opener>
+            <p>THe ſcope of this reverent Divine is in theſe words to hold forth unto us, the excellencie of human wit and policy, in this ſelf-ſeering and deceitfull world. And indeed I hope I have not made a wrong choice of my Text, not knowing any one whereon I could better ground the praiſes of our departed brother here before us; you all knowing how great a Diſciple of our Author he was, be<g ref="char:EOLhyphen"/>ing indeed the very pattern and exemplar of his Godly and Religious life. But now to explain the words aright, we ſhall deal with them, as joyners do with court-Cupboards and
+<pb n="4" facs="tcp:119121:3"/>
+round Tables, firſt pull them aſunder, and then put them to<g ref="char:EOLhyphen"/>gether againe; I uſe this compariſon, that you may know me to be, man of trade, that is to ſay, one that trades in the <hi>word,</hi> or if you will have it otherwiſe, a holder forth, according to the laſt and moſt ſanctifi'd inſtitution. Firſt, then, you have an exhortation in theſe words, <hi>Let us;</hi> Secondly, the time given us to make uſe thereof, <hi>while we live;</hi> Thirdly, the thing to which we are exhorted, that is, <hi>to make uſe of our time;</hi> and laſtly the ſupreme reaſon of this exhortation, <hi>for a mans life is ended in a day. Let us while we live, make uſe of our time, for a mans life is ended in a day.</hi> Firſt then of the firſt, that is to ſay, of the words, <hi>Let us;</hi> But here you muſt give me leave to excuſe the great abuſes that have been put upon theſe two poor innocent monoſyllables. I confeſſe they have been crumm'd thicker than <hi>Habakkuks</hi> brown loaf into the por<g ref="char:EOLhyphen"/>ridge of the Caveleers, commonly call'd the Common Pray<g ref="char:EOLhyphen"/>er Book, when they cry <hi>Let us pray, Let us kneel;</hi> But believe it, my beloved, I have now rebaptized them, and waſh'd them cleaner from that prophanation, than ever tripes were ſcowr'd from their filth by the niceſt Huswife in <hi>Field Lane.</hi> Now being thus purifi'd, you will find <hi>Let us,</hi> to ſignifie ſometimes as much as, hinder us not, <hi>Quixot</hi> the 12. <hi>verſe</hi> 8. <hi>Hinder me not fair</hi> Dulcina <hi>from the enjoyment of your ſweet Company,</hi> that is, <hi>Let me enjoy your ſweet Company<g ref="char:punc">▪</g>
+               </hi> ſometimes as much as to ſay <hi>Suffer us;</hi> ſaith the reverent <hi>Buſcon, chap.</hi> 7. <hi>verſe</hi> 5. to his Maſter in great affliction, <hi>Suffer us not to be ſtarv'd to death,</hi> that is, <hi>Let us not be ſtarved, &amp;c.</hi> Yet it is not meant here as in thoſe places by way of petition, but is a kind of rouſing up of the ſpirits, to a certain action. As when the Carrmen would heave a great load into their Carts, they exhort one another by crying <hi>hey boys;</hi> or as when the Coachman would have his horſes to goe faſter than ordinary, he incourages them by ſaying <hi>ſtirr up,</hi> in which ſence our learned <hi>Guſman</hi> uſes this expreſſion, <hi>Let us,</hi> in this place, as it were a word of incitement or <hi>ſtirring us up</hi> to any under<g ref="char:EOLhyphen"/>taking: Some when they uſe theſe words in this ſignification do clap one another on the back, which adds a greater empha<g ref="char:EOLhyphen"/>ſis to them. But he goes on, <hi>Let us, ſaith he, while we live.</hi>
+               <pb n="5" facs="tcp:119121:3"/>
+And here you are to underſtand two things; what is meant by <hi>Wee,</hi> and ſecondly what is meant by the words in general <hi>while we live.</hi> Note then that <hi>Wee</hi> is a particle of diſtinction; which ſhews you that there is another ſort of men to whom our deer <hi>Guſman</hi> doth deny the precious comforts held forth in this verſe; for my beloved, I would not have you think, that when he ſpake this he had piggs in his belly, as <hi>Calvin</hi> in his comments upon this place doth erroniouſly conjecture. By <hi>Wee</hi> then, is meant, the godly, ſuch as I and you are whom the Lord hath choſen to the conjoyments of this World. The other ſort of men here imply'd are all thoſe who profeſſe to be our enemies, men that would cut off our ears with the paring ſhovels of their malice, and whip our backs with the ſcourges of their fury; for did not the word intimate this diſtinction, our deceaſed brother had not uſed ſo many pious and painful endeavours to advance ſome men, and deſtroy o<g ref="char:EOLhyphen"/>thers, that is to advance his own godly partie, and deſtroy his wicked foes; <hi>Let us</hi> ſaith he, <hi>while we live,</hi> that is while we are in power, while we live in authority, or be in favour with thoſe that Govern, whether it be a ſingle perſon or a Commonwealth, or if you will have it otherwiſe, while we are in a thriving condition, while men think us Godly and Faithful, and conſequently truſt us with preferments of pro<g ref="char:EOLhyphen"/>fit, I ſay when the Lord ſhall put ſuch opportunities and abi<g ref="char:EOLhyphen"/>lities into our hands, Then my Brethren, <hi>Let us make uſe of our time;</hi> Let us take hold of them with both hands, and hold them as faſt as a Maſtiff holds a Sow by the ear. <hi>Let us make uſe of our time,</hi> that <hi>is,</hi> Let us uſe all indeavours, ways, plots, means, manners, tricks and policies, whether law<g ref="char:EOLhyphen"/>ful or un, lawful to raiſe and advance our own ends, whether they be only honourable or profitable, or both. And when we have attained that which we ſeek, Let us uſe the ſame inven<g ref="char:EOLhyphen"/>tions, that the ungodly may not gain them from us, and thence take an occaſion to triumph over us. The fathers of the order of Induſtry at the Council held at <hi>Biſcay</hi> in the year 1590, made a decree, that every one ſhould keep his own, and get what he could from another. I ſpeak this, that I may not leave you altogether without authority in the expla<g ref="char:EOLhyphen"/>nation
+<pb n="6" facs="tcp:119121:4"/>
+of my Text, but of this more anon. We ſhall now pro<g ref="char:EOLhyphen"/>ceed to the reaſon of the words, <hi>For a mans life is ended in a day;</hi> As much as to ſay, the life of man is very ſhort; For whereas it was formerly above an ell and a nail long, it is now no longer than a ſpan. How vaſt a while did <hi>Methuſelah</hi> live to enjoy the pains and labours of his youth? But no ſoon<g ref="char:EOLhyphen"/>er had our deer Brother Mr. <hi>Peters</hi> got an Eſtate, a little Cha<g ref="char:EOLhyphen"/>riot, and an <hi>Oneſimus</hi> or two to wait on him, thinking to comfort himſelf with the bleſſings of the creature, but he was ſnatch'd away from us, ev'n as a boy ſnatches a pippin out of an apple-womans basket. Some in regard of the ſhort<g ref="char:EOLhyphen"/>neſſe thereof, have compared the life of man unto a Lilly; but I am clearly of opinion, that it was a miſtake; ſeeing that of that flower is made a precious oyl that prolongeth the days of man by curing feſterd wounds, and broken pates. Others have likened it unto a roſe; but with as little reaſon; for we know that of the roſe is made that excellent conſerve which is good againſt the cough of the Lungs, one of the greateſt enemies to life; I therefore rather agreeing herein with that great light of the Spaniſh Church <hi>Lazarillo de Tormes,</hi> ſhall compare our beloved Brother unto a Marigold, and <hi>his ending in a day</hi> unto the fading thereof. For as the flowers of a Ma<g ref="char:EOLhyphen"/>rigold ſwimming on the top of a meſſe of porridge which is the food of the body, is a great ornament thereunto, ſo my beloved, was he a great ornament to our Religion which is the food of the Soul; and even as that cloſes up at the ſetting of the Sun, ſo did he <hi>end in a day,</hi> even <hi>in that day</hi> that the Sun of our Region was forc'd to withdraw himſelf from <hi>White Hall.</hi> Thus much for the Expoſition; I ſhall now proceed to the Doctrine that creeps out of my Text, as a Fox creeps out his hole; <hi>That it is the duty of every profeſſour, ſeeing that he hath but a ſhort while to ſtay in this world, to make the beſt uſe of his time;</hi> The particulars of which Doctrine I ſhall labour to make good unto you by reaſon and example. Firſt then that there is a duty that lies upon every profeſſour, we find evident by this, that there is in all men not only a labouring and a panting, but alſo a tye upon them to look after ſelf-pre<g ref="char:EOLhyphen"/>ſervation, for if a Child of God be in want and woful neceſſi<g ref="char:EOLhyphen"/>ty,
+<pb n="7" facs="tcp:119121:4"/>
+as many times they are, the Law of nature doth oblige them to ſeek after maintenance, and not to deſtroy them<g ref="char:EOLhyphen"/>ſelves and their family, ſaith <hi>Guſman</hi> in his ſecond book, <hi>c.</hi> 3. <hi>v.</hi> 15. <hi>Poverty is dayly death,</hi> ſo that he who avoids not po<g ref="char:EOLhyphen"/>verty, ſeeks a dayly death, and is conſequently a daily mur<g ref="char:EOLhyphen"/>therer of himſelf: at leaſt he intends it: now an intention to Sin, without repentance, is a ſin as great as the act it ſelf. This it was that urged the Holy <hi>Guſman</hi> to undertake thoſe many atchievements which he performed; For ſaith he in a<g ref="char:EOLhyphen"/>nother place, Book the 1ſt. <hi>c.</hi> 8. <hi>v.</hi> 12. <hi>I thought it not my Duty to live in Idleneſſe;</hi> Therefore when Neceſſity, the beſt School-miſtreſſe of the Godly, that maketh Magpies to ſpeak and Spaniels to fetch and carry, had made him to conſider his duty, he was not ſlack in the exerciſe thereof, ſo that be<g ref="char:EOLhyphen"/>taking himſelf to the religious calling of a Thief, he ſtole the Cooks ſilver Goblet, the Grocers Royals, and couzened the Cardinal of his Barrel of Conſerves. Moreover my beloved, this Duty of ſelf-preſervation caus'd our dear Siſter <hi>Agatha</hi> as you may read in the firſt book of pious <hi>Francion,</hi> not only to bethink her ſelf, but to beſtirr her ſtumps alſo; Finding her ſelf therefore to be of a well ſhip'd body, and of comly fea<g ref="char:EOLhyphen"/>tures, and lovely in the eyes of men, ſhe became an Harlot, and was unto the brethren a great comfort in the frail diſtreſ<g ref="char:EOLhyphen"/>ſes of Human nature: whereby ſhe was ſtored with wealth, and increaſed in worldly enjoyments. This Duty it is that ob<g ref="char:EOLhyphen"/>ligeth Butchers to preach and Coblers to pray, that teaches them to make profeſſion of Religion, and then cauſeth them to take on them the gainful function of the miniſtry, whereby they may be the better enabled, after the ſweet conſolations of boyl'd beef and bag-pudding, to ſing Pſalms, and rejoice in their families. All theſe things our deceaſed brother knew full well, which made him perſiſt in the performance of this duty until the end. He ſoon found the ſweet gain of preach<g ref="char:EOLhyphen"/>ing, and made ſuch a dextrous uſe of it, that he was beloved of his Rulers, and dyed with the bleſſing of <hi>Job;</hi> for I may ſay of our dear Brother, as the Text ſaith of him, That the Lord bleſſed his latter end more than his beginning. The Lord re<g ref="char:EOLhyphen"/>ward that bleſſed man who firſt invented this profitable and
+<pb n="6" facs="tcp:119121:5"/>
+advantagious ſcience. Thus much for the firſt part of our Doctrine, <hi>That there is a Duty lying upon every Profeſſor.</hi> Now my beloved I ſhall come to tell you what that Duty is: 'tis true the words of my Texts are ſo plain, that you may in a manner pick it out of the words with as much eaſe, as you can pick out the marrow of a Leg-of-mutton-bone with a ſcewer, or the wrong end of a ſpoon; For ſay they, <hi>Let us while we live make uſe of our time, ſeeing the life of man is ended in a day.</hi> So that here you ſee what Duty that is, <hi>That you ought to make uſe of your time;</hi> But perhaps you doe not know what it is to make uſe of your time, which is the next thing I ſhall inform you. Know yee then my Brethren, there are ſwarms of ſuch men as make profeſſion of Religion, who are not all of one trade or occupation, but ſome follow one thing, ſome another, according to their ſeveral gifts. For ſome are Stitchers of cloath, ſome are Bodies-makers, ſome are Tranſlators, ſome are Souldiers, and fight the battails of the Lord, ſome are Broakers, ſome are Hewers of wood, that is to ſay Carpenters, ſome are drawers of water, that is Victuallers, and Innkeepers, ſome are thoſe that gape for State employments, and ſome, though I deny not that any of theſe may take the Miniſtry upon them in time, are Preachers of the Word, as ſoon as ever they have done play<g ref="char:EOLhyphen"/>ing at Trapp. Now that every one of theſe profeſſions may profit in their ſeveral Vocations, there are required theſe nine gifts.</p>
+            <list>
+               <item>
+                  <hi>The Gift of convenient boldneſs.</hi>
+               </item>
+               <item>
+                  <hi>The Gift of Nonſence.</hi>
+               </item>
+               <item>
+                  <hi>The Gift of Leaſing.</hi>
+               </item>
+               <item>
+                  <hi>The Gift of accuſing and in<g ref="char:EOLhyphen"/>forming.</hi>
+               </item>
+               <item>
+                  <hi>The Gift of Ignorance.</hi>
+               </item>
+               <item>
+                  <hi>The Gift of Cozening.</hi>
+               </item>
+               <item>
+                  <hi>The Gift of Thieving.</hi>
+               </item>
+               <item>
+                  <hi>The Gift of Covetouſneſſe.</hi>
+               </item>
+               <item>
+                  <hi>And the Gift of Hypocriſie.</hi>
+               </item>
+            </list>
+            <p>I have plac'd the gift of convenient boldneſs in the Van, and the gift of Hypocriſie in the Rear, knowing that a profeſſor can<g ref="char:EOLhyphen"/>not well go on upon any enterpriſe without the one, nor well come off without the other. Now though a profeſſor ought always to have an inward working of thoſe gifts, yet the per<g ref="char:EOLhyphen"/>fection
+<pb n="7" facs="tcp:119121:5"/>
+of them is required in ſome ſorts of profeſſors more than in others: For example, The gifts of impudence, lying; and cozening, do more properly belong unto thoſe who have trades and occupations of ſelling and buying. The gifts of ignorance, lying, impudence, informing, cozening, and hypo<g ref="char:EOLhyphen"/>criſie belong unto ſuch as ſeek preferment, whether Civil or Military; but all of them together are required to make up a Miniſter of the word. I ſhall not here ſtand to tell you in particular how every own of theſe callings ought according to their ſeveral gifts to make uſe of their time; but in gene<g ref="char:EOLhyphen"/>ral, as a Foot-boy skippeth over kennels, skip over thoſe in<g ref="char:EOLhyphen"/>ſtructions which concern the profeſſors that are of my own Livery. Firſt therefore, that a Preaching profeſſor may make uſe of his time; it is required that he ſhould be ſtored with <hi>Impudence,</hi> even as a Woodmongers Wharf is ſtored with Faggots and Sea-coal. The uſes of it are theſe two, firſt, to encourage you to the moſt deſperate enterpriſes; and ſecond<g ref="char:EOLhyphen"/>ly, to make you ſcorn the reproaches of thoſe that reprove ye: As for example my beloved, If you ſee one of your enemies ſeated in a warm living, and that your heart pant and thirſt after the ſame, you ought then to put on your night-cap of devotion, and your garment of hypocriſie, and go unto your ſuperiors and ſay, Yonder is a man who is not of the Congre<g ref="char:EOLhyphen"/>gation of Profeſſors, who is planted in a rich Living, he is a ſcandalous and diſaffected perſon, and I am more worthy than he, pray put me into his place; If men therefore re<g ref="char:EOLhyphen"/>buke you, and call you accuſer and devil, then ought you to make uſe of your gift of impudence, and laugh at them all. Thus did holy <hi>Nye</hi> throw out unrighteous <hi>Juxon</hi> out of his Parſonage of <hi>Fullham.</hi> Thus our brother <hi>Marſhall</hi> became poſſeſſed of his fat Living in the Land of <hi>Eſſex.</hi> This embold<g ref="char:EOLhyphen"/>ned our departed brother to hold forth in the Pulpit of <hi>White-Hall,</hi> where ſo many learned (as the heathen call them) had been before him. What cared they for the reproaches of men, for their hearts were ſeared with the hot Iron of im<g ref="char:EOLhyphen"/>pudence, finding themſelves at eaſe and filled with joy? This likewiſe emboldened the poor <hi>Spaniard,</hi> as we find in the book of our dear <hi>Guſman, Book</hi> 1. <hi>c.</hi> 7. Firſt to begg money,
+<pb n="8" facs="tcp:119121:6"/>
+and then without bidding ſit down cheek by jowl with the Ambaſſador; for ſaith he in the laſt verſe, <hi>He was carried away with bravadoes and an impudent behaviour.</hi>
+            </p>
+            <p>The next Vertue, we are to make uſe of is the gift of <hi>Non<g ref="char:EOLhyphen"/>ſence:</hi> for perhaps thou maiſt not be a Scholar, nor one of the number of the learned, and it may concern thee to talk two hours together; thou oughteſt therefore to be well furniſhed with <hi>Nonſence,</hi> that thou maiſt be enabled to go through with thy work; to which purpoſe often repetitions, and telling of tales do very much conduce; as when our depar<g ref="char:EOLhyphen"/>ted brother, told the ſtory of his being in heaven and hell, and the tale of <hi>Puſs in her Majeſty.</hi>
+            </p>
+            <p>The next gift is that of <hi>Lying,</hi> which may be very profit<g ref="char:EOLhyphen"/>able to thee, and whereof thou maiſt make a very great advan<g ref="char:EOLhyphen"/>tage; for if thou art bid to preach for the benefit of thy Ru<g ref="char:EOLhyphen"/>lers, if then thou art furniſhed with ſoul cozening doctrine; If then thou haſt the right art of lying and wheedling the peo<g ref="char:EOLhyphen"/>ple, by telling them that the cauſe thou ſpeakeſt of is the onely true cauſe, and that God will certainly own them in their obedience to it, then there will ariſe unto thee a very great emolument. With theſe arts our deceaſed brother furniſhed the Parliament with Baſons, Rings, and Bodkins. Thus he by telling them that <hi>Ireland</hi> was a place that flowed with milk and honey, and where broad cloath of twelve ſhillings a yard grew upon the trees, inticed the ſouldiers over againſt the publike enemy. Thus we read in the fore<g ref="char:EOLhyphen"/>mentioned Chapter of <hi>Guſman,</hi> How the ſame <hi>Spaniard</hi> by relating the nobleneſs of his family, though he were but a Coblers ſon in <hi>Cordova,</hi> and by boaſting of ſeveral great acti<g ref="char:EOLhyphen"/>ons, which he never did, got of the ſaid Ambaſſador both money and his dinner. We find alſo Mr. <hi>Sterry</hi> practiſing this gift, when he to ingratiate himſelf with his new Maſter, our late Protector, he aſſured him that his father was ſitting at the right hand of God, when moſt Divines do af<g ref="char:EOLhyphen"/>firm the contrary.</p>
+            <p>The next thing requiſite for a man that will make ye but uſe of his time, is the gift of <hi>accuſing</hi> and <hi>ſlandring;</hi> know<g ref="char:EOLhyphen"/>eſt thou not (O Man) that ſlanders are like the defilement of
+<pb n="9" facs="tcp:119121:6"/>
+printers ink, eaſily laid on, but hard to rub off? If then thou ſeekeſt to work any one into disfavor with his Superiors, that thou maiſt obtain thy deſired end, make thy firſt ſhot at him with the pot-guns of ſlander; for the diſgrace thou throweſt upon him, throws him out, and toſſes thee into the haven of thy wiſhes. Thus our deceaſed brother never left accuſing un<g ref="char:EOLhyphen"/>ſanctified <hi>Lawd,</hi> till his head had ſatisfied his wrath, and the benevolences which the Profeſſors beſtowed on him out of his worldly profits had appeaſed the hunger of his almoſt famiſhed purſe: Thus the brethren likewiſe accuſed the Lord <hi>Craven,</hi> being of the race of <hi>Iſhmael,</hi> and got his eſtate.</p>
+            <p>Thy next gift is <hi>Ignorance;</hi> For thou muſt know that there are few wiſe men in authority; Thinkeſt thou then O fooliſh <hi>Ga<g ref="char:EOLhyphen"/>lathian,</hi> that any man will advance ſuch a one as is more cun<g ref="char:EOLhyphen"/>ning than himſelf, no thou muſt at leaſt pretend ignorance, and if after ſuch advancement, thou doſt grow wiſer than thy brethren, then I ſay make uſe of thy time, ſaith bleſſed <hi>Machiavel</hi> in his Book of the Right Path to preferment, Let every man counterfeit that humor which he finds moſt advan<g ref="char:EOLhyphen"/>tagious to his deſigns. Therefore neither our deceaſed bro<g ref="char:EOLhyphen"/>ther, nor any of his faithful brethren the <hi>Tryers</hi> would ad<g ref="char:EOLhyphen"/>vance thoſe whom the heathen called the grave, learned, and wiſe, but the meaneſt of the people, that were of the ſimpleſt and weakeſt capacities. There came a learned man, and one of the weak brethren, and contended for a place, ſaith our deceaſed brother to him that was learned, What is Faith? who anſwered him diſcreetly according to the learning of the Schools; then he demanded the ſame queſtion of the other, who replyed that Faith was a ſweet lullaby in the lap of Je<g ref="char:EOLhyphen"/>ſus Chriſt; at which words our deceaſed brother, lifting up his hands to heaven, cryed. Bleſſed be the Lord who hath re<g ref="char:EOLhyphen"/>vealed theſe things unto the ſimple; Friend, thou according to thy deſerts, ſhalt have the Living.</p>
+            <p>The next thing important is the gift of <hi>Cozening,</hi> For you know my beloved the common people are a ſimple ſort of creatures, who muſt be deluded into their own good. Now their good is the good and ſafety of their Governors; Do we
+<pb n="10" facs="tcp:119121:7"/>
+not deceive Children whom we would give Phyſick unto, by anointing the brim of the Cup with hony? So do we ſweeten the bitter purges, which are the peoples Taxes and Impoſiti<g ref="char:EOLhyphen"/>an, with the delicate allurements of Liberty and Religion. So our late Reverend Lord <hi>Oliver</hi> of bleſſed memory, for whom our dear Brother, the Lord reward his Soul, hath pump'd full often, as you may read in our dear Siſter <hi>Briſco's</hi> book of Divine truths, ſo I ſay he by couſening every body that he dealt with, by the right management, or the ſeaſo<g ref="char:EOLhyphen"/>nable taking and breaking of his oaths and proteſtations, be<g ref="char:EOLhyphen"/>came a Monarch. Thus did the devout <hi>Lazarillo</hi> couſen the Prieſt his Maſter of his bread, I ſhall give you his own words, <hi>l.</hi> 1. <hi>c.</hi> 3. <hi>v.</hi> 11. I pray my beloved turn to the place and mark it, for 'tis a very pretious Text. Saith he, as I was muſing how to get victuals, and feeding upon the ſight of the Cheſt wherein my Maſters bread was locked, there came a Tinker to the dore with a bunch of keys, who ſeemed to me to be an Angel in diſguiſe, ſaid I to him, have you a key that will open this Cheſt, he aſſay'd and open'd it, by which means I made many a fair loaf inviſible that my Maſter never knew of.</p>
+            <p>Another thing mainly conducing to him that would make uſe of his time, is the Gift of Covetouſneſſe. Therefore ſaith the Text, of that blind Hermite who was <hi>Lazarillo</hi>'s Ma<g ref="char:EOLhyphen"/>ſter, <hi>that for all his gains, there was never a man ſo wretched a niggard.</hi> The reaſon thereof is, that there may come changes, and that the Profeſſors may be forc'd to flye, it be<g ref="char:EOLhyphen"/>hooves them therefore while they may to make uſe of their time, that is, to hoard up and ſave againſt the day of adver<g ref="char:EOLhyphen"/>ſity. You have the examples of moſt profeſſors for it, whoſe dores we find continually ſhut, and never opening to the leaſt expence of a cruſt, though a poor man ſhould begg his heart our. This makes us, not to be content with our Li<g ref="char:EOLhyphen"/>vings, but to ſet up Lectures and private Congregations, which bringeth in unſpeakable profit; nor content with this, ſome of our brethren ſitting in the Tryers chair which is the ſeat of authority, have privately taken to themſelves the re<g ref="char:EOLhyphen"/>wards of well doing, loath to ſpoyl the charity of men, by
+<pb n="11" facs="tcp:119121:7"/>
+receiving tankards of Silver, rundlets of Sack, and ſometimes ready mony, the Lord of his mercy make them thankfull. Our deceaſed Brother was a mighty admirer of Canes with ſilver heads, and making his admiration known, he profited exceedingly.</p>
+            <p>The laſt important Gift is the gift of Hypocriſie. The rea<g ref="char:EOLhyphen"/>ſon hereof is, that he who will compaſſe a deſign muſt goe the beſt way he can to do it: Now he that cannot get his ends by force, muſt ſeek to attain them by cunning; but it is found, that in theſe dayes there is no cunning like that of ſeeming Godly. As Mr. <hi>Sedgewick</hi> hath well obſerved in his Book of ſpiritual experiences. Therefore is this gift very neceſſa<g ref="char:EOLhyphen"/>ry; For which cauſe, ſaith <hi>Tiberius</hi> the beſt of Chriſtian Em<g ref="char:EOLhyphen"/>perours, That he who knows not to diſſemble, knows not to rule, and with him accords our brother <hi>Spurstow</hi> in his book of the privileges of the Saints. All the world knows how conducing it was both to our deceaſed Brother and his dear Maſter, and what advantages they got thereby, I ſhall not therefore inſiſt any more upon further examples.</p>
+            <p>Having thus made out by reaſon and example <hi>that it is the duty of every Profeſſor, while he lives in this world, to make uſe of his time,</hi> and the means and ways how to do it, I ſhall now proceed to application. Is it ſo then that every Profeſſor ought to make uſe of his time, then let this ſerve for a uſe of Exhortation, to exhort every one of yee to make the beſt uſe of your time; That is to ſay, get Mony, get Eſtates, get Friends at Court, and labour to enjoy the promiſes; the fat of the land, my beloved, is your fee-ſimple, therefore let not <hi>Canaan</hi> be taken from you. If your Rulers would have you worſhip them and adore them, do ſo, beloved, for they are Gods, and yee ought to do ſo. If they would have you preach falſe Doctrine and deceive the people, do ſo; It is their intereſt, and if theirs, yours alſo, do not they feed yee, and cloath yee, and put you into fat Livings? be there<g ref="char:EOLhyphen"/>fore obedient to them in all things. If they would have you <hi>procure,</hi> procure for them, as your deceaſed Brother did before yee, and went down unto his grave in peace. I but ſome will ſay theſe things are unlawful; But hear what ſaith
+<pb n="12" facs="tcp:119121:8"/>
+our dear Brother <hi>Horace</hi> of ſacred memory <hi>In vetitum nefas ruimus,</hi> we ought to run into that from which we are for<g ref="char:EOLhyphen"/>bidden. To confirm this, I ſhall only give you two or three motives, and ſo conclude. Firſt from the inconveniencies following the neglect of your Duty, &amp; 2ly. from the conveni<g ref="char:EOLhyphen"/>encies that hang upon it even as pears hang upon a tree at the latter end of Summer. The inconveniencies ariſing from the neglect of our Duty, are Poverty and neceſſity; Therefore <hi>Guſ<g ref="char:EOLhyphen"/>man,</hi> being in great want, and finding that brickbats were too hard to feed on, and that the rafters of a houſe were not to be roaſted, thought there was no better way to thrive, than by becomming a Churchman: for ſaith he, then ſhall I have ſomething to eat, knowing well that a <hi>dominus vobiſ<g ref="char:EOLhyphen"/>cum</hi> never taſted of hunger. Again, if thou wert maried, and thy wife ſhould ſee her Neighbours goe finer than ſhe, and ſhould complain, and thou not be able to ſupply her, would it not be a great trouble and vexation of ſpirit to thee to hear the clamours of thy dear Conſort? The next motive is the Folly and Indiſcretion that men would juſtly accuſe yee off, that when it is in your power to make uſe of your time, you ſhould be ſuch wood-Cockscombs as to refuſe it. The conve<g ref="char:EOLhyphen"/>niencies ariſing are firſt the reſpect of men, ſecondly the re<g ref="char:EOLhyphen"/>ſpect of women, and thirdly the certain gain and profit which hath alwayes belonged unto us; For if you make uſe of your time, men will reſpect yee, worſhip yee, and place yee uppermoſt at their meetings, while you ſit a ſtraddle upon their Conſciences, as <hi>Balaam</hi> rid upon his Aſſe, without the leaſt wincing or contradiction at all. The women will feaſt yee, and cram not only your bellies but your purſes, nor ſhall there be a good bit eaten at the table of their Husbands of which you ſhall not partake, to the great envie of the wick<g ref="char:EOLhyphen"/>ed. When you come down ſweating from your pulpits, they will put yee into warm beds, and rub over your weary limbs with their ſoft and tender hands. Ah my beloved, theſe are pretious, I ſay pretious enjoyments; Therefore I ſhall con<g ref="char:EOLhyphen"/>clude in the words of my Text, <hi>Let us while we live make uſe of our time,</hi> taking for our pattern the life and manners of our deceaſed Brother here before us; of whom that I may make
+<pb n="13" facs="tcp:119121:8"/>
+him a ſhort Encomium, I ſhall ſay thus much; That from his youth he followed the calling of the Miniſtry, and becauſe then the wicked prevailed, and he was a ſufferer, he went about giving conſolation to thoſe that ſuffer'd for theft, and ſuch like criminal offences. Afterwards be travail'd and as he found occaſion he ſowed his Seed ſometimes in fruitfull, ſometimes in barren ſoils: and I may ſay this of him, that while he liv'd, ſuch was his zeal, he lay'd many a Whore of <hi>Babylon</hi> on her back. When the faithful began to exalt their horns in this Nation, He was a great fomenter of the quar<g ref="char:EOLhyphen"/>rel, and gave occaſion to the reſt of his Brethren to fiſh in troubled waters. To his Prince he was a great aſſiſtance in all his deſigns, laying aſide that notional impediment of a Stateman, called Conſcience, that he might be the more ſerviceable to his Country; His Chatity was not unknown, He giving two notable examples thereof, in his relieving our two dear Siſters, the Butchers wiſe, and Mrs. <hi>Littleton,</hi> in both their afflictions. He dy'd not without aſſociates to ac<g ref="char:EOLhyphen"/>company him to his laſt reſt; for as I am informed, that on that night that he departed, departed alſo a dear brother and Siſter of ours, the Hangman and <hi>Moll Cutpurſe.</hi> He was firſt unwilling to dye, knowing what comforts he left behind him, but ſeeing there was no remedy, he lean'd his head on the pillow, and peaceably yeelded up the Ghoſt. When <hi>Ty<g ref="char:EOLhyphen"/>ribazus</hi> a noble Perſian was arreſted, at the firſt, he drew his ſword and defended himſelf, but when they charged him in the Kings name, then he yeelded himſelf willingly: So when Death arreſted our dear Brother, at firſt he ſtarted and ſtrug<g ref="char:EOLhyphen"/>gled, as a man ſhrinks at his firſt putting his feet into the cold water, but when he recollected his thoughts, and conſide<g ref="char:EOLhyphen"/>ring that Death was ſent to him as a meſſenger to bring him to Eternity, he embrac'd it, and he went to his long home as willingly as a young Bride goeth from her friends into the Country with her new maried Spouſe. And thus having tired your patience, before which time we never uſe to make an end, I ſhall conclude, ſtill deſiring you not to forget the ex<g ref="char:EOLhyphen"/>ample of our departed Brother, and the words of my Text, <hi>Let us while we live make uſe of our time, for the life of man is ended in a day.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
